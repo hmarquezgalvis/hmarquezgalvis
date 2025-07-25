@@ -1,6 +1,6 @@
 **&lt;&gt;** Hi, I'm Hector Marquez **&lt;/&gt;**
 
-# Senior **Javascript** Engineer <br/> & Tech Architect
+# Senior **Javascript** Engineer & Tech Architect
 
 <> With over 15 years of experience, I specialize as a Senior Front-End & JavaScript Engineer, working with companies across the USA, Europe, and Latin America. I focus on modern web technologies like React, Angular, Astro, NodeJS, and TypeScript, and am passionate about building scalable solutions and adopting cutting-edge technologies. </>
 
